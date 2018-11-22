@@ -1,0 +1,21 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kwaku",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "logger": "0.0.1",
+    "morgan": "^1.9.1",
+    "parse-error": "^0.2.0",
+    "passport": "^0.4.0",
+    "routes": "^2.1.0"
+  }
+}
